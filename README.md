@@ -6,3 +6,7 @@
 ### extensions
 
 https://github.com/Humanizr/Humanizer#format-string
+
+## FUNCTIONNAL
+
+http://slides.com/rhwy/being-functional#/
